@@ -1,0 +1,17 @@
+Al clonar un repositorio react, se debe ejecutar "npm install" para instalar ciertas dependencias
+y luego ejecutar "npm run dev" o "npm start" <--(frontend) <-- vista principal
+
+Para django ejecutamos "pip install -r requirements.txt" que instalara los requerimientos extra para el correcto
+funcionamiento de nuestro backend.<--(backend) <--(base de datos)
+
+--tarjeta aprobada--
+4051 8856 0044 6623
+CVV 123
+cualquier fecha de expiración
+
+--tarjeta rechazada--
+5186 0595 5959 0568
+CVV 123
+cualquier fecha de expiración
+
+Cuando aparece un formulario de autenticación con RUT y clave, se debe usar el RUT 11.111.111-1 y la clave 123.
